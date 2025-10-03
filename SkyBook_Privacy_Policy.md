@@ -1,8 +1,8 @@
 # Privacy Policy
 
-Last updated: 2023-11-27
+Last updated: 2025-10-03
 
-LogiQuiz ("the app") is developed by Hyperion Dev Studio. This policy describes how the app collects and uses information when you use it.
+SkyBook ("the app") is developed by Hyperion Dev Studio. This policy describes how the app collects and uses information when you use it.
 
 ## Information We Collect
 
